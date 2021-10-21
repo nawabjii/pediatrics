@@ -1,0 +1,61 @@
+hr{
+    
+    box-sizing: border-box;
+    width: 1450px;
+    height: 5px;
+    border-color: red;
+    background-color: red;
+    margin-top: 9px;
+}
+h1{
+    text-align: center;
+    flood-color: violet
+    
+}
+figure.item {
+    position: relative;
+    
+    display: inline-block;
+    text-align:center;
+    
+    width: 200px;
+    height: 200px;
+    box-sizing: border-box;
+    border-radius:5px;
+}
+
+img{
+    box-sizing: border-box;
+    border-radius:10px;
+    
+    margin: 20px;
+    
+    width:150px;
+    height: 150px;
+   
+}
+figcaption.caption {
+    display: block;
+    padding: 1px;
+    text-decoration-line: underline;
+}
+div.vl{
+    position: absolute;
+    border-left: 1px solid black;
+    height: 220px;
+    top: 0;
+    margin-left: 230px;
+    
+}
+div.border{
+    box-sizing: border-box;
+    width: auto;
+    
+    margin: 30px;
+
+}
+div.border2{
+    box-sizing: border-box;
+    width: auto;
+    margin-left: 120px;
+}
